@@ -18,7 +18,7 @@ def random_predict(number:int=1) -> int:
     
     while True:
         count += 1
-        pridict_number = np.random.randint(1, 101)
+        # pridict_number = np.random.randint(1, 101)
         if number == pridict_number:
             break
     return count
