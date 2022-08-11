@@ -1,19 +1,19 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Arteam57/sf_data_science_2/tree/main/project_0/README.md#Описание-проекта)
+[1. Описание проекта](#description)
 
 [2. Какой кейс решаем?](https://github.com/Arteam57/sf_data_science_2/tree/main/project_0/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/Arteam57/sf_data_science_2/tree/main/project_0/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Arteam57/sf_data_science_2/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](#stages)
 
 [5. Результат](https://github.com/Arteam57/sf_data_science_2/tree/main/project_0/README.md#Результаты)
 
 [6. Выводы](https://github.com/Arteam57/sf_data_science_2/blob/main/project_0/README.md#Выводы)
 
-### Описание проекта
+<a name="description"> <h3>Описание проекта</h3></a>
 Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/Arteam57/sf_data_science_2/blob/main/project_0/README.md#Оглавление)
@@ -37,7 +37,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/Arteam57/sf_data_science_2/blob/main/project_0/README.md#Оглавление)
 
-### Этапы работы над проектом
+<a name="stages"> <h3>Этапы работы над проектом</h3></a>
 .....
 
 :arrow_up:[к оглавлению](https://github.com/Arteam57/sf_data_science_2/blob/main/project_0/README.md#Оглавление)
