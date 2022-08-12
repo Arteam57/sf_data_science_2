@@ -53,7 +53,7 @@ def score_game(random_predict) -> int:
     random_array = np.random.randint(1, 101, size=(1000)) # Загадали список чисел
 
     for number in random_array:
-        count_ls.append(random_predict(number))
+        count_ls.append(random_predict(number)) # Заносим результаты в список
 
     score = int(np.mean(count_ls)) # Находим среднее количество попыток
 
